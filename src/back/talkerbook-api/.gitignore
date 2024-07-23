@@ -1,0 +1,39 @@
+# Arquivos compilados
+*.class
+
+# Pacote binário (quando empacotado)
+*.jar
+*.war
+*.ear
+
+# Diretórios de sistema
+bin/
+target/
+out/
+
+# Arquivos de configuração específicos do IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.project
+.classpath
+.settings/
+
+# Logs
+*.log
+
+# Diretórios de dependência
+dependency-reduced-pom.xml
+.mvn/
+mvnw
+mvnw.cmd
+
+# Arquivos temporários
+*.tmp
+*.bak
+*.swp
+
+# Outros arquivos e diretórios a ignorar
+.DS_Store
+/tmp/

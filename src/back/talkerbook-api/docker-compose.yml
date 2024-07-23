@@ -1,0 +1,15 @@
+version: '3.8'
+
+services:
+  mysql:
+    image: mysql:8.0
+    container_name: mysql
+    ports:
+      - "3307:3306"
+    environment:
+      MYSQL_ROOT_PASSWORD: "toor"
+      MYSQL_DATABASE: "talkerbook_db"
+      MYSQL_USER: "talkerbook_admin"
+      MYSQL_PASSWORD: "toor"
+    volumes:
+      - ./init.sql:/docker-entrypoint-initdb.d/init.sql

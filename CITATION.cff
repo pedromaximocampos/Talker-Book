@@ -1,0 +1,38 @@
+cff-version: 1.0.1
+message: Please cite this software using these metadata.
+title: Talker Book
+authors:
+  - family-names: Mateus Souza
+    given-names: Allan
+  - family-names: Henrique Porto
+    given-names: Arthur
+  - family-names: Andrade Carvalho
+    given-names: Lara
+  - family-names: Salomao Ferreira
+    given-names: Otavio
+  - family-names: Máximo Campos
+    given-names: Pedro
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: de Macedo Neto
+    given-names: Cristiano 
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Boechat Seufitelli
+    given-names: Danilo
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Norberta de Brito
+    given-names: Aline
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Marcia Gomes Amaral
+    given-names: Cleia
+keywords:
+    - Livros
+    - Resumo
+    - Acesso Gratuito
+repository-code: https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-1-ti2-1381100-talkerbook
+license: CC-BY-4.0
+version: 1.0.0
+date-released: 2024-06-25
